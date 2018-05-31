@@ -1,7 +1,7 @@
-(defpackage :jm-re-asd
+(defpackage :jm-re
   (:use :cl :asdf))
 
-(in-package :jm-re-asd)
+(in-package :jm-re)
 
 (defsystem :jm-re
   :name "jm-re"
