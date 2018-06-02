@@ -10,5 +10,5 @@
   :license "Apache 2.0"
   :description "Lua-style string pattern matching."
   :serial t
-  :components ((:file "re"))
+  :components ((:file "jm-re"))
   :depends-on ("parse"))
