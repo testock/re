@@ -17,7 +17,7 @@
 ;;;; under the License.
 ;;;;
 
-(defpackage :re
+(defpackage :jm-re
   (:use :cl :parse)
   (:export
    #:with-re
@@ -36,7 +36,7 @@
    #:match-pos-start
    #:match-pos-end))
 
-(in-package :re)
+(in-package :jm-re)
 
 ;;; ----------------------------------------------------
 
